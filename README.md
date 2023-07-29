@@ -10,4 +10,4 @@ Using the scalarTransportFoam
 
 This is in the Turtoiral basic
 
-Used a large amount of infromation from the block mesh guide 
+Used a large amount of infromation from the block mesh guide  
