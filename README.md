@@ -10,4 +10,4 @@ Using the scalarTransportFoam
 
 This is in the Turtoiral basic
 
-Detor to learn how I can genterate a mesh
+Used a large amount of infromation from the block mesh guide 
